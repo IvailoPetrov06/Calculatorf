@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculatorf", "Calculatorf.csproj", "{71A1346F-F2FD-4E71-80B7-40D15F053614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71A1346F-F2FD-4E71-80B7-40D15F053614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71A1346F-F2FD-4E71-80B7-40D15F053614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71A1346F-F2FD-4E71-80B7-40D15F053614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71A1346F-F2FD-4E71-80B7-40D15F053614}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3928FF18-57BE-4C7C-96E5-817538F980F4}
+	EndGlobalSection
+EndGlobal
